@@ -1,2 +1,3 @@
 git is a version control system
-this is the first version
+git is a distributed version control system
+this is the second version
